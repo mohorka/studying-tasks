@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dzyuba Victoria\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+      "projectUniqueName": "C:\\Users\\Dzyuba Victoria\\Documents\\GitHub\\studying-tasks\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
       "projectName": "CoffeeMachine",
-      "projectPath": "C:\\Users\\Dzyuba Victoria\\source\\repos\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
+      "projectPath": "C:\\Users\\Dzyuba Victoria\\Documents\\GitHub\\studying-tasks\\CoffeeMachine\\CoffeeMachine\\CoffeeMachine.csproj",
       "packagesPath": "C:\\Users\\Dzyuba Victoria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dzyuba Victoria\\source\\repos\\CoffeeMachine\\CoffeeMachine\\obj\\",
+      "outputPath": "C:\\Users\\Dzyuba Victoria\\Documents\\GitHub\\studying-tasks\\CoffeeMachine\\CoffeeMachine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
